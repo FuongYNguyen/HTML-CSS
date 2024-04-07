@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Modern Business</title>
+    <meta charset="utf_8">
+    <link rel="stylesheet" href="/CuoiKy/css/ModernBusiness.css">
+</head>
+
+<body>
+    <div class="big-begin">
+        <div class="begin">
+            <div class="name">
+                <a id="name" href="">Start Bootstrap</a>
+            </div>
+            <div class="cn">
+                <a class="cnn" href="">Home</a>
+                <a class="cnn" href="">About</a>
+                <a class="cnn" href="">Contact</a>
+                <a class="cnn" href="">Pricing</a>
+                <a class="cnn" href="">Q&A</a>
+                <select class="cnn" name="blog" id="cc">
+                    <option value="blog">Blog</option>
+                    <option value="bloghome">Blog Home</option>
+                    <option value="blogpost">Blog Post</option>
+                </select>
+                <select class="cnn" name="portfolio" id="cc">
+                    <option value="portfolio">Portfolio</option>
+                    <option value="portfoliooverview ">Blog Overview</option>
+                    <option value="portfolioitem">Blog Item</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="big-main">
+        <div class="main">
+            <div id="noidung">
+                <h1 id="h1">A Bootstrap 5 template for modern businesses</h1>
+                <p id="text1">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s
+                    most popular front-end open source toolkit!</p>
+                <div id="but1">
+                    <a id="but11" href="">Get Started</a>
+                    <a id="but12" href="">Learn More</a>
+                </div>
+            </div>
+            <div id="hinhanh">
+                <img id="hinh" src="/CuoiKy/img/Ảnh chụp màn hình 2023-12-08 172118.png" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="abe">
+        <div class="chu">A better way to start building.</div>
+        <div class="icon">
+            <div class="divnho">
+                <h3>Featured title</h3>
+                <p id="text2">Paragraph of text beneath the heading to explain the heading. Here is just a bit more
+                    text.</p>
+            </div>
+            <div class="divnho">
+                <h3>Featured title</h3>
+                <p id="text2">Paragraph of text beneath the heading to explain the heading. Here is just a bit more
+                    text.</p>
+            </div>
+            <div class="divnho">
+                <h3>Featured title</h3>
+                <p id="text2">Paragraph of text beneath the heading to explain the heading. Here is just a bit more
+                    text.</p>
+            </div>
+            <div class="divnho">
+                <h3>Featured title</h3>
+                <p id="text2">Paragraph of text beneath the heading to explain the heading. Here is just a bit more
+                    text.</p>
+            </div>
+        </div>
+    </div>
+    <div class="big-text3">
+        <div class="text3">
+            "Working with Start Bootstrap templates has saved me tons of development time when building new projects!
+            Starting with a Bootstrap template just makes things easier!"<br>
+            <br>Tom Ato / CEO, Pomodoro
+        </div>
+    </div>
+    <div class="fromourblog">
+        <b style="font-size: 35px;">From our blog</b>
+        <p></p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque fugit ratione dicta mollitia. Officiis ad.
+    </div>
+    <div class="newproduct">
+        <div class="chunew">
+            <h1 id="newpro">New products, delivered to you.</h1>
+            <p id="text4">Sign up for our newsletter for the latest updates.</p>
+        </div>
+        <div class="ccc">
+                    <input id="email" type="email" placeholder="Email address...">
+                    <input class="nutcuoi" type="submit" value="Sign up">
+    
+        </div>
+    </div>
+</body>
+
+</html>
