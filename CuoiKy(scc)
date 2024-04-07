@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tieude{
+    background-color: #ED5206;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#dulich{
+    font-size: 25px;
+}
+#mang{
+    font-size: 14px;
+}
+.cn{
+    background-color: #333333;
+   
+    display: flex;
+    justify-content: start;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+#cn{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.noidung{
+    display: flex;
+    justify-content: space-around;
+}
+.gioithieu{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F1F1;
+    padding: 10px;
+}
+#anhnho{
+   width: 100%;
+   height: auto;
+}
+.thanhpho{
+    display: flex;
+    flex-direction: column;
+}
+.hinhanhboibat{
+    display: flex;
+    flex-direction: column;
+}
+.noidungchinh{
+    display: flex;
+    flex-direction: column;
+}
+#anhlon{
+    width: 100%;
+    height: auto;
+}
+#anhnho1{
+    width: 100%;
+   height: auto;
+   margin-bottom: 20px;
+}
+#chuthich{
+    text-align: center;
+}
+#ngaydang{
+    font-weight: bold;
+}
+.end{
+    background-color:#003A6A ;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+}
+@media screen and (max-width: 800px){
+    .cn{
+        background-color: #333333;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #cn{
+        text-decoration: none;
+        color: aliceblue;
+        font-size: 15px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+    .noidung{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .gioithieu{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        background-color: #F1F1F1;
+        padding: 20px;
+    }
+    .noidungchinh{
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    }
+    
+}
