@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>44_tkw</title>
+        <meta charset="utf_8">
+        <link rel="stylesheet" href="/Cau2/css/Cau2.css">
+    </head>
+    <body>
+        <div class="tieude">
+            <span id="dulich">DU LICH MIEN TRUNG</span>
+            <span id="mang" >Mang ban den voi chon tien canh</span>
+        </div>
+        <div class="cn">
+            <a id="cn" href="">Gioi thieu</a>
+            <a id="cn" href="">Chuong trinh</a>
+            <a id="cn" href="">Hinh anh</a>
+            <a id="cn" href="">Lien he</a>
+        </div>
+        <div class="noidung">
+            <div class="gioithieu">
+                <h2 id="h2">Gioi thieu ve du lich Da Nang</h2>
+                <div class="thanhpho">
+                   <h3 id="h3" >Thanh pho dang song nhat Viet Nam</h3>
+                    <img id="anhnho" src="/Cau2/images/DaNangVeDem.jpg" alt="">
+                    <p>Da dang duoc xem la thanh pho xinh dep maf bat ki ai phai den trong doi. de tra loi cho nhung cau hoi trai nghiem</p>
+                </div>
+                <div class="hinhanhboibat">
+                    <h3 id="h3">Cac hinh anh noi bat</h3>
+                    <img id="anhnho1" src="/Cau2/images/CaChepHoaRong.jpg" alt="">
+                    <img id="anhnho1" src="/Cau2/images/CauVang.jpg" alt="">
+                    <img id="anhnho1" src="/Cau2/images/CongVienBienDong.jpg" alt="">
+                </div>
+            </div>
+            <div class="noidungchinh">
+                <h1 id="congvien">CONG VIEN CHAU A</h1>
+                <p id="ngaydang">Da Nang, ngay 15/08/2023</p>
+                <img id="anhlon" src="/Cau2/images/AsianPart.jpg" alt="">
+                <p id="chuthich"> Vi tri: duong Phan Dang Luu, Hoa cuong Bac, Hai Chau</p>
+                <p id="vanban"> Cong vien chay a so huu hang tram tro choi giai tri maoj hiem. die diem du lich tu tuc da nang noi tieng hut luong lons khach</p>
+                <h1 id="congvien">HAI DANG TIEN SA</h1>
+                <p id="ngaydang">Da Nang, ngay 15/08/2023</p>
+                <img id="anhlon" src="/Cau2/images/CangTienSa.jpg" alt="">
+                <p id="chuthich"> Vi tri: Tho quang, Son Tra, Da Nang</p>
+                <p id="vanban"> Cong vien chay a so huu hang tram tro choi giai tri maoj hiem. die diem du lich tu tuc da nang noi tieng hut luong lons khach</p>
+            </div>
+        </div>
+        <div class="end">
+            Copyright@ 2023 by 44-Nguyễn Ý Phương
+        </div>
+    </body>
+</html>
