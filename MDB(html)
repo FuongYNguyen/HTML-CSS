@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MDB</title>
+        <meta charset="utf_8">
+        <link rel="stylesheet" href="/CuoiKy/css/MDB.css">
+    </head>
+    <body>
+        <div class="big-mdb">
+            <div class="mdb">
+                <div class="logo-search">
+                    <a id="logo" href=""><H1>MDB</H1></a>
+                    <div class="search">
+                        <input type="text" id="search" placeholder="Search">
+                        <input type="submit" name="" id="search-button" value="@">
+                    </div>
+                </div>
+                <div class="cn">
+                    <a id="cn" href="">Sign in</a>
+                    <a id="cn" href="">Wishlist</a>
+                    <a id="cn" href="">My cart</a>
+                </div>
+            </div>
+        </div>
+        <div class="mucluc">
+            <a id="mucluc" href="">Home</a>
+            <a id="mucluc" href="">Categories</a>
+            <a id="mucluc" href="">Hot offers</a>
+            <a id="mucluc" href="">Glft boxes</a>
+            <a id="mucluc" href="">Projects</a>
+            <a id="mucluc" href="">Menu item</a>
+            <a id="mucluc" href="">Menu name</a>
+                <select id="other">
+                    <option value="Other">Other</option>
+                    <option value="hehe">hehe</option>
+                </select>    
+        </div>
+        <div class="big-blue-para">
+            <div class="blue-para">
+                <div class="balam">
+                    <h1 id="best-products">Best products & brands in our store</h1>
+                    <p id="trendy">Trendy Products, Factory Prices, Excellent Service</p>
+                    <div class="nut">
+                        <a href="" id="learn-now">LEARN MORE</a>
+                        <a id="purchase" href="">PURCHASE NOW</a>    
+    
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="new-products">New products</div>
+        <div class="products">
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+            <div class="detail-product">
+                <img id="anhsp" src="/CuoiKy/img/2-e9e159d3-faf3-4136-be89-d2099ec77bb1.webp" alt="gopro hero6">
+                <h2 id="tensp">GoPro HERO6 4K Action Camera - Black</h2>
+                <p id="giasp">$790.50</p>
+                <div class="button">
+                    <button id="add-to-cart">ADD TO CART</button>
+                    <button id="tim" ><3</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="flex">
+            <div class="tieu-te-flex"><h2>Why choose us</h2></div>
+            <div class="uu-diem">
+                <div class="tung-uu-diem">
+                    <h4 id="tieudeud">Reasonable prices</h4>
+                    <p id="motauudiem">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmor</p>
+                </div>
+                <div class="tung-uu-diem">
+                    <h4 id="tieudeud">Reasonable prices</h4>
+                    <p id="motauudiem">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmor</p>
+                </div>
+                <div class="tung-uu-diem">
+                    <h4 id="tieudeud">Reasonable prices</h4>
+                    <p id="motauudiem">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmor</p>
+                </div>
+                <div class="tung-uu-diem">
+                    <h4 id="tieudeud">Reasonable prices</h4>
+                    <p id="motauudiem">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmor</p>
+                </div>
+                <div class="tung-uu-diem">
+                    <h4 id="tieudeud">Reasonable prices</h4>
+                    <p id="motauudiem">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmor</p>
+                </div>
+                <div class="tung-uu-diem">
+                    <h4 id="tieudeud">Reasonable prices</h4>
+                    <p id="motauudiem">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmor</p>
+                </div>
+            </div>    
+        </div>
+        <div id="blog-post">Blog posts</div>
+        <div class="blog">
+            <div class="blog-chi-tiet">
+                <img id="hinh2" src="/CuoiKy/img/Ảnh chụp màn hình 2023-12-12 232351.png" alt="">
+                <p id="day">23.12.2022</p>
+                <h4 id="tieudeblog">How to promote</h4>
+                <p id="noidungblog">When you enter into any new area of science, you almost reach</p>
+            </div>
+            <div class="blog-chi-tiet">
+                <img id="hinh2" src="/CuoiKy/img/Ảnh chụp màn hình 2023-12-12 232351.png" alt="">
+                <p id="day">23.12.2022</p>
+                <h4 id="tieudeblog">How to promote</h4>
+                <p id="noidungblog">When you enter into any new area of science, you almost reach</p>
+            </div>
+
+            <div class="blog-chi-tiet">
+                <img id="hinh2" src="/CuoiKy/img/Ảnh chụp màn hình 2023-12-12 232351.png" alt="">
+                <p id="day">23.12.2022</p>
+                <h4 id="tieudeblog">How to promote</h4>
+                <p id="noidungblog">When you enter into any new area of science, you almost reach</p>
+            </div>
+
+            <div class="blog-chi-tiet">
+                <img id="hinh2" src="/CuoiKy/img/Ảnh chụp màn hình 2023-12-12 232351.png" alt="">
+                <p id="day">23.12.2022</p>
+                <h4 id="tieudeblog">How to promote</h4>
+                <p id="noidungblog">When you enter into any new area of science, you almost reach</p>
+            </div>
+
+        </div>
+        <div class="big-end">
+            <div class="end">
+                <div class="logo-banquyen">
+                    <a id="logo" href=""><H1>MDB</H1></a>
+                    <p id="banquyen">© 2023 Copyright: MDBootstrap.com</p>    
+                </div>
+                <div class="store">
+                    <h2 id="store">STORE</h2>
+                    <a id="st" href="">About us</a>
+                    <a id="st" href="">Find store</a>
+                    <a id="st" href="">Categories</a>
+                    <a id="st" href="">Blog</a>
+                </div>
+                <div class="store">
+                    <h2 id="store">STORE</h2>
+                    <a id="st" href="">About us</a>
+                    <a id="st" href="">Find store</a>
+                    <a id="st" href="">Categories</a>
+                    <a id="st" href="">Blog</a>
+                </div>
+                <div class="store">
+                    <h2 id="store">STORE</h2>
+                    <a id="st" href="">About us</a>
+                    <a id="st" href="">Find store</a>
+                    <a id="st" href="">Categories</a>
+                    <a id="st" href="">Blog</a>
+                </div>
+                <div class="newsletter">
+                    <h2 id="newsletter">NEWSLETTER</h2>
+                    <p id="st">Stay in touch with latest updates about our products and offers</p>
+                    <div class="email">
+                        <input id="email" type="email" placeholder="Email">
+                        <button id="join">Join</button>
+                    </div>
+                </div>
+            </div>
+            <div class="lange">
+                <section>
+                    <option value="">English</option>
+                    <option value="">Vietnam</option>
+                </section>
+            </div>
+    
+        </div>
+    </body>
+</html>
