@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Small Business</title>
+        <meta charset="utf_8">
+        <link rel="stylesheet" href="/CuoiKy/css/SmallBusiness.css">
+    </head>
+    <body>
+        <div class="big">
+        <div class="begin">
+            <div class="name"><a class="name" href="">Start Bootstrap</a></div>
+            <div class="cn">
+                <a class="a" href="">Home</a>
+                <a class="a" href="">About</a>
+                <a class="a" href="">Contact</a>
+                <a class="a" href="">Services</a>
+            </div>
+        </div>
+        </div>
+        <div class="main">
+            <div class="picture">
+                <img id="hinh" src="/CuoiKy/img/Ảnh chụp màn hình 2023-12-07 212354.png" alt="">
+            </div>
+            <div class="text">
+                <h1 id="h1">Business Name or Tagline</h1>
+                <p id="text1">This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
+                <a id="call" href="https://drive.google.com/file/d/1N9Kpk1Ng6zKCQZQLkbvhjiVeIs4a1Xsf/view?fbclid=IwAR1baB1ZvkNi5_bFZBfrr2_58EnZIlD5Z5Pbj1U7AmGFL_O7_yPXIbDmaWo">Call to Action!</a>
+            </div>
+        </div>
+        <div class="grey">This call to action card is a great place to showcase some important information or display a clever tagline!</div>
+        <div class="card">
+            <div class="khoi">
+                <h2 id="h2">Card One</h2>
+                <p id="text2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem magni quas ex numquam, maxime minus quam molestias corporis quod, ea minima accusamus.</p>
+                <div class="dongke"></div> 
+                <a id="but" href="">More Info</a>
+            </div>    
+            <div class="khoi">
+                <h2 id="h2">Card One</h2>
+                <p id="text2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem magni quas ex numquam, maxime minus quam molestias corporis quod, ea minima accusamus.</p>
+                <div class="dongke"></div> 
+                <a id="but" href="">More Info</a>
+            </div>    
+            <div class="khoi">
+                <h2 id="h2">Card One</h2>
+                <p id="text2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem magni quas ex numquam, maxime minus quam molestias corporis quod, ea minima accusamus.</p>
+                <div class="dongke"></div> 
+                <a id="but" href="">More Info</a>
+            </div>    
+        </div>
+    </body>
+</html>
